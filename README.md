@@ -17,6 +17,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
 - [3D & Renders](#🧊-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
+  - [Material Retexturing](#material-retexturing)
 - [Design & Layout](#📐-design--layout)
   - [2026 Themed Calendar](#2026-themed-calendar)
 - [Animated](#🎞️-animated)
@@ -201,6 +202,59 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.
+
+---
+
+</details>
+
+### Material Retexturing
+
+<img src="https://github.com/user-attachments/assets/6c76e589-2752-458a-b18c-c3cc3d9ea328" width="400" alt="Material Retexturing">
+
+**Author:** [Ege](https://x.com/egeberkina) | **Source:** [Twitter/X Thread](https://x.com/egeberkina/status/1993387483980349806)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a reference image)
+
+**Nano Banana Pro prompt:**
+> retexture the image attached based on the JSON below:
+> {
+>   "materials": {
+>     "exterior": "clear acrylic resin",
+>     "interior": [
+>       "layered green circuit boards",
+>       "intertwined copper wires",
+>       "microchips",
+>       "coils",
+>       "transistors",
+>       "mini LED modules"
+>     ]
+>   },
+>   "lighting": {
+>     "type": "studio spotlight",
+>     "direction": "frontal and side",
+>     "color": "neutral white",
+>     "mood": "clean, high contrast"
+>   },
+>   "background": {
+>     "type": "solid",
+>     "color": "pure black"
+>   },
+>   "camera": {
+>     "angle": "frontal centered",
+>     "focus": "sharp",
+>     "depth_of_field": "shallow to medium"
+>   },
+>   "color_palette": {
+>     "dominant": ["green", "copper", "black"],
+>     "accents": ["silver", "transparent", "electric amber"]
+>   },
+>   "vibe": "futuristic techno-art, minimalist, detailed internal structure"
+> }
 
 ---
 
