@@ -12,6 +12,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
   - [Product Evolution Timeline](#product-evolution-timeline)
+  - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -135,6 +136,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a 9:16 vertical timeline image showing the design evolution of [OBJECT_NAME] from the first model to the latest one. First, identify the main official generations and the most iconic models of [OBJECT_NAME] with their release years. Arrange them in a single vertical image, with the oldest model at the top and the newest at the bottom. Use a consistent camera angle and similar size for all models, centered on a clean vertical axis. Add a short label for each model with the model name and year. Style: clean, photorealistic product render, simple neutral background, soft studio lighting. Do not add people, busy backgrounds, or long text paragraphs.
+
+---
+
+</details>
+
+### Whiteboard Doodle Summary
+
+<img src="https://github.com/user-attachments/assets/cb107344-e5b7-4c36-bf28-3c941cc7906d" width="400" alt="Whiteboard Doodle Summary">
+
+**Author:** [Ali Eslami](https://x.com/arkitus) | **Source:** [Twitter/X Thread](https://x.com/arkitus/status/1993691952437440566)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires transcript of a podcast or article text)
+
+**Nano Banana Pro prompt:**
+> create a dense, clean, colorful, square whiteboard doodle that captures these insights and the connections between them
 
 ---
 
