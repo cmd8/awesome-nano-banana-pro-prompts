@@ -6,6 +6,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [Infographics](#📊-infographics)
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
+  - [Building Diagram from Photo](#building-diagram-from-photo)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -49,6 +50,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Make an infographic of this person’s life based on this article: [Wikipedia Page]
+
+---
+
+</details>
+
+### Building Diagram from Photo
+
+<img src="https://github.com/user-attachments/assets/aa97e11f-ad39-4d58-ab95-7624c8dfb1ac" width="300" alt="Building Diagram from Photo"> <img src="https://github.com/user-attachments/assets/27201bdc-f505-46c3-845b-3c8f363c9565" width="300" alt="Building Diagram from Photo">
+
+**Author:** [AmirMušić](https://x.com/AmirMushich) | **Source:** [Twitter/X Thread](https://x.com/AmirMushich/status/1992704354990907793)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a reference photo)
+
+**Nano Banana Pro prompt:**
+> Create a hand drawn isometric schematic diagram of this street
 
 ---
 
