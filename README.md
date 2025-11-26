@@ -22,6 +22,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Material Retexturing](#material-retexturing)
 - [Design & Layout](#📐-design--layout)
   - [2026 Themed Calendar](#2026-themed-calendar)
+  - [Isometric City Weathercards](#isometric-city-weathercards)
 - [Animated](#🎞️-animated)
   - [Claymation Infographic](#claymation-infographic)
 
@@ -313,6 +314,33 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a colorful 2026 Disney-themed calendar illustration with an overall 3-row by 4-column layout, each grid representing a month, in a cute and bright style. Date requirements (must be completely accurate): • Use the weekday order of Sun–Mon–Tue–Wed–Thu–Fri–Sat. • 2026 is a common year: February has only 28 days. • Each month must start on the correct weekday as per the actual 2026 calendar: • January 2026 starts on Thursday • February 2026 starts on Sunday • March 2026 starts on Sunday • April 2026 starts on Wednesday • May 2026 starts on Friday • June 2026 starts on Monday • July 2026 starts on Wednesday • August 2026 starts on Saturday • September 2026 starts on Tuesday • October 2026 starts on Thursday • November 2026 starts on Sunday • December 2026 starts on Tuesday Visual requirements: • Disney cartoon illustration style with bright colors and a cute atmosphere. • Each month features a different Disney theme (Mickey Mouse, The Little Mermaid, Coco, Moana, Toy Story, Princess Series, etc.). • The frame, background, and illustrations of each month match the theme style. • Month titles are in English (January–December). • Dates must be neat, clear, and not misaligned. Layout requirements: • 3-row × 4-column matrix, arranged in monthly order from left to right. • Each grid contains: month title + date grid + small Disney illustration. • No repeated or missing months.
+
+---
+
+</details>
+
+### Isometric City Weathercards
+
+<img src="https://github.com/user-attachments/assets/aac625a6-15cf-4b62-8e65-d35619022a96" width="400" alt="Isometric City Weathercards">
+
+**Author:** [宝玉](https://x.com/dotey) | **Source:** [Twitter/X Thread](https://x.com/dotey/status/1993729800922341810)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+>
+> The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
+>
+> Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
+>
+> Display a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.
+>
+> The text should match the input city's native language.
+> Please retrieve current weather conditions for the specified city before rendering.
 
 ---
 
