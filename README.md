@@ -5,6 +5,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 ## 📚 Table of Contents
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
+  - [Knolling](#knolling)
 - [Design & Layout](#📐-design--layout)
   - [2026 Themed Calendar](#2026-themed-calendar)
 - [Animated](#🎞️-animated)
@@ -25,6 +26,25 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid photos pinned to a cork board. Each photo captures a key moment, with simple captions below. Arrange the photos in a loosely chronological path across the board, using colored strings to connect events and characters. Light the scene warmly to evoke nostalgia. Include incidental details, coffee cup rings, paper clips, handwritten notes, for authenticity.
+
+---
+
+</details>
+
+
+### Knolling
+
+<img src="https://github.com/user-attachments/assets/b5f83fbd-830e-4c9a-bdf1-db6236472910" width="400" alt="Knolling">
+
+**Author:** [Nano Banana](https://x.com/NanoBanana) | **Source:** [Twitter/X Thread](https://x.com/NanoBanana/status/1993311207714177251)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A knolling for Google DeepMind
 
 ---
 
