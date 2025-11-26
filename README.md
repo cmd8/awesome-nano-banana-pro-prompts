@@ -6,6 +6,8 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
+- [3D & Renders](#🧊-3d--renders)
+  - [Isometric Architecture](#isometric-architecture)
 - [Design & Layout](#📐-design--layout)
   - [2026 Themed Calendar](#2026-themed-calendar)
 - [Animated](#🎞️-animated)
@@ -45,6 +47,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > A knolling for Google DeepMind
+
+---
+
+</details>
+
+## 🧊 3D & Renders
+
+### Isometric Architecture
+
+<img src="https://github.com/user-attachments/assets/70bc631f-94a6-43ef-911a-8b76bc8c9e84" width="400" alt="Isometric Architecture">
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Twitter/X Thread](https://x.com/TechieBySA/status/1993271355987443955)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.
 
 ---
 
