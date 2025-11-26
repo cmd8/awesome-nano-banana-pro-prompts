@@ -13,6 +13,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Parchment Paper](#parchment-paper) 
   - [Product Evolution Timeline](#product-evolution-timeline)
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
+  - [Patent Style](#patent-style)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -156,6 +157,32 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > create a dense, clean, colorful, square whiteboard doodle that captures these insights and the connections between them
+
+---
+
+</details>
+
+### Patent Style
+
+<img src="https://github.com/user-attachments/assets/5ace685a-be98-4288-9808-7c3e7871634f" width="400" alt="Patent Style Illustration">
+
+**Author:** [FiacR](https://reddit.com/user/FiacR) | **Source:** [Reddit Thread](https://reddit.com/r/GeminiAI/comments/1p724om/vibe_patenting_in_nano_banana/)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> The "Strato-Pedal" Sky-Velocipede.
+>
+> A personal, single-seat flying machine consisting of a bicycle frame suspended beneath a spindle-shaped hydrogen gas bag. The user pedals not to turn wheels, but to spin a large, gossamer-winged propeller and a "rudder-fin" for steering against the wind. It includes a ballast-drop lever for rapid ascents.
+>
+> Use "Patent" Style (Utility Line Art) that is hyper-detailed but completely devoid of color. Format 9:16.
+>
+> Add some patent text explanation below.
+
+*Note: You can vary the second paragraph to describe different inventions.*
 
 ---
 
