@@ -7,6 +7,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
+  - [Research Paper](#research-paper)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -70,6 +71,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hand drawn isometric schematic diagram of this street
+
+---
+
+</details>
+
+### Research Paper
+
+<img src="https://github.com/user-attachments/assets/d6067284-044f-4c77-98e5-861bb6fc43b5" width="400" alt="Research Paper Infographic">
+
+**Author:** [EugeneOldman](https://x.com/EugeneOldman) | **Source:** [Twitter/X Thread](https://x.com/EugeneOldman/status/1992739788152283394)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a PDF of a paper)
+
+**Nano Banana Pro prompt:**
+> Carefully read the following paper and generate a single, engaging, high-resolution infographic that accurately and comprehensively explains its key concepts, methods, results and conclusions. Extract as much meaningful information as possible and represent it visually in a clear, well-structured layout that aids comprehension, understanding, and long-term memorization. Do not use generic or cliche infographic elements (such as random icons, stock arrows or decorative charts), instead, design the layout, visual metaphors and graphic elements to closely match the content's tone, theme and depth. Ensure that all visual elements, symbols and color cues are strong, consistent and easily identifiable and that every part of the infographic faithfully reflects the content without adding information that is not supported by the text.
 
 ---
 
