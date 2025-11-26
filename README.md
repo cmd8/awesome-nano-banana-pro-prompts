@@ -10,6 +10,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Research Paper](#research-paper)
+  - [Parchment Paper](#parchment-paper) 
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -96,6 +97,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Carefully read the following paper and generate a single, engaging, high-resolution infographic that accurately and comprehensively explains its key concepts, methods, results and conclusions. Extract as much meaningful information as possible and represent it visually in a clear, well-structured layout that aids comprehension, understanding, and long-term memorization. Do not use generic or cliche infographic elements (such as random icons, stock arrows or decorative charts), instead, design the layout, visual metaphors and graphic elements to closely match the content's tone, theme and depth. Ensure that all visual elements, symbols and color cues are strong, consistent and easily identifiable and that every part of the infographic faithfully reflects the content without adding information that is not supported by the text.
+
+---
+
+</details>
+
+### Parchment Paper
+
+<img src="https://github.com/user-attachments/assets/894b7dc8-1755-4427-8dc6-a2a4e025216f" width="400" alt="Parchment Paper Infographic">
+
+**Author:** [Nicole Brichtova](https://x.com/nbrichtova) | **Source:** [Twitter/X Thread](https://x.com/nbrichtova/status/1993369708670992438)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> make an infographic about the seven wonders of the ancient world, on a parchment paper
 
 ---
 
