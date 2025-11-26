@@ -5,6 +5,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 ## 📚 Table of Contents
 - [Infographics](#📊-infographics)
   - [Watercolor Storybook](#watercolor-storybook)
+  - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -30,6 +31,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Traditional, whimsical watercolor illustration with a storybook aesthetic. Here is a breakdown of the key elements: Medium: Primarily watercolor painting, characterized by soft, translucent washes of color, blending effects (especially in the sky and water), and visible pigment texture. Linework: Features distinct, sketchy, hand-drawn black ink outlines that define the figures, landscape, and text. These lines are loose and irregular, contributing to an informal, charming feel. Color Palette: The colors are natural, subdued, and earthy, dominated by soft blues (sky/water), various greens (trees/grass), and browns (dirt path/clothing). The palette feels nostalgic and pleasant, avoiding harsh or overly saturated tones. Composition & Tone: The scene has a storybook or picture book quality—it's idealized, warm, and sentimental, centered on the adventure of a father and child. The title's script font enhances this narrative, inviting, whimsical tone. Overall Impression: The style evokes a feeling of nostalgia, adventure, and classic illustration, similar to the look of early 20th-century children's books or nature guides.
+
+---
+
+</details>
+
+### Wikipedia Biographical Summary
+
+<img src="https://github.com/user-attachments/assets/6a40ce2f-3325-49df-ab6d-6acbf5dd165d" width="400" alt="Wikipedia Biographical Summary">
+
+**Author:** [CHRIS FIRST](https://x.com/chrisfirst) | **Source:** [Twitter/X Thread](https://x.com/chrisfirst/status/1991598396868817139)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Make an infographic of this person’s life based on this article: [Wikipedia Page]
 
 ---
 
