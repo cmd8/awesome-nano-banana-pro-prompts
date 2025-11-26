@@ -3,6 +3,8 @@
 A curated collection of high-fidelity prompts, styles and workflows for Nano Banana Pro.
 
 ## 📚 Table of Contents
+- [Infographics](#📊-infographics)
+  - [Watercolor Storybook](#watercolor-storybook)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -11,7 +13,27 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [Design & Layout](#📐-design--layout)
   - [2026 Themed Calendar](#2026-themed-calendar)
 - [Animated](#🎞️-animated)
-  - [Claymation infographic](#claymation-infographic)
+  - [Claymation Infographic](#claymation-infographic)
+
+## 📊 Infographics
+
+### Watercolor Storybook
+
+<img src="https://github.com/user-attachments/assets/bac2f6d0-f447-4dc6-8484-fb2402d36ee7" width="400" alt="Watercolor Infographic">
+
+**Author:** [NotebookLM](https://x.com/NotebookLM) | **Source:** [Twitter/X Thread](https://x.com/NotebookLM/status/1991958619290734710)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Traditional, whimsical watercolor illustration with a storybook aesthetic. Here is a breakdown of the key elements: Medium: Primarily watercolor painting, characterized by soft, translucent washes of color, blending effects (especially in the sky and water), and visible pigment texture. Linework: Features distinct, sketchy, hand-drawn black ink outlines that define the figures, landscape, and text. These lines are loose and irregular, contributing to an informal, charming feel. Color Palette: The colors are natural, subdued, and earthy, dominated by soft blues (sky/water), various greens (trees/grass), and browns (dirt path/clothing). The palette feels nostalgic and pleasant, avoiding harsh or overly saturated tones. Composition & Tone: The scene has a storybook or picture book quality—it's idealized, warm, and sentimental, centered on the adventure of a father and child. The title's script font enhances this narrative, inviting, whimsical tone. Overall Impression: The style evokes a feeling of nostalgia, adventure, and classic illustration, similar to the look of early 20th-century children's books or nature guides.
+
+---
+
+</details>
 
 ## 📸 Photography & Realistic
 
@@ -94,7 +116,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 ## 🎞️ Animated
 
-### Claymation infographic
+### Claymation Infographic
 
 <video src="https://github.com/user-attachments/assets/0eec685c-8202-4b44-9ae3-f0c858dce706" width="400" controls></video>
 
