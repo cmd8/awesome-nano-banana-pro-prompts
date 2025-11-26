@@ -1,5 +1,7 @@
 # 🍌 Awesome Nano Banana Pro Prompts
 
+![Awesome Nano Banana Pro Prompts Hero Image](https://github.com/user-attachments/assets/19cb1f21-6687-451a-bb10-a88d2ac8a39d)
+
 A curated collection of high-fidelity prompts, styles and workflows for Nano Banana Pro.
 
 ## 📚 Table of Contents
