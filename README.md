@@ -11,6 +11,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
+  - [Product Evolution Timeline](#product-evolution-timeline)
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -115,6 +116,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > make an infographic about the seven wonders of the ancient world, on a parchment paper
+
+---
+
+</details>
+
+### Product Evolution Timeline
+
+<img src="https://github.com/user-attachments/assets/9f216ec9-9ec1-4145-a2d9-1faf77c7b212" width="400" alt="Product Evolution Timeline">
+
+**Author:** [stiva](https://x.com/s_tiva) | **Source:** [Twitter/X Thread](https://x.com/s_tiva/status/1993366768132264382)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Create a 9:16 vertical timeline image showing the design evolution of [OBJECT_NAME] from the first model to the latest one. First, identify the main official generations and the most iconic models of [OBJECT_NAME] with their release years. Arrange them in a single vertical image, with the oldest model at the top and the newest at the bottom. Use a consistent camera angle and similar size for all models, centered on a clean vertical axis. Add a short label for each model with the model name and year. Style: clean, photorealistic product render, simple neutral background, soft studio lighting. Do not add people, busy backgrounds, or long text paragraphs.
 
 ---
 
