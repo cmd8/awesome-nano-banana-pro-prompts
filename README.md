@@ -13,6 +13,8 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [Photography & Realistic](#📸-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
+- [Art & Illustration](#🎨-art--illustration)
+  - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
 - [3D & Renders](#🧊-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
 - [Design & Layout](#📐-design--layout)
@@ -132,6 +134,53 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > A knolling for Google DeepMind
+
+---
+
+</details>
+
+## 🎨 Art & Illustration
+
+### 2024 Wimmelbilder Summary
+
+<img src="https://github.com/user-attachments/assets/fe5b24c6-69b9-4dec-ae76-d53128ec669f" width="400" alt="2024 Wimmelbilder Summary">
+
+**Author:** [saltshaker911](https://www.reddit.com/user/saltshaker911) | **Source:** [Reddit Thread](https://www.reddit.com/r/nanobanana/comments/1p384aa/i_got_nano_banana_pro_to_summarize_2024_in_one/nqezjxx/)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A highly detailed, chaotic, hand-drawn "Wimmelbilder" style cartoon illustration, viewed from a high-angle isometric perspective, summarizing the year 2024. The art style should mimic a vibrant comic book or "Mad Magazine" end-of-year wrap-up, featuring bold line art, flat bold colors, and slightly exaggerated caricatures. The composition is divided into three distinct layers:
+>
+> The Sky (In Memoriam):
+> The top section features fluffy white clouds against a blue sky. Nestled within the clouds are kindly, monochrome or pastel-colored caricature portraits of famous figures who passed away in 2024. Include James Earl Jones (perhaps smiling warmly), Maggie Smith (wearing a witch's hat), Akira Toriyama (with a small dragon on his shoulder), and Donald Sutherland.
+>
+> The Skyline (Media & Tech Giants):
+> The middle section is a dense wall of skyscrapers covered in massive billboards and neon signage representing the biggest entertainment and tech of the year.
+>
+> Movies/TV: A massive billboard for "Dune: Part Two" featuring a cartoon sandworm, a colorful sign for "Inside Out 2" featuring the orange "Anxiety" character, a poster for "Deadpool & Wolverine" with the two characters high-fiving, and a "Fallout" TV show sign featuring a Vault Boy giving a thumbs up.
+>
+> Tech: A giant, comedic robot labeled "AI" dominating the center, typing on a laptop while human writers look worried. A billboard advertising the "Apple Vision Pro" with a character walking blindly while wearing the headset.
+>
+> Centerpiece: A large, festive banner strung between buildings that reads "HERE'S TO 2024!"
+>
+> The Street Level (Viral Moments & News):
+> The bottom section is a crowded, bustling street scene filled with vignettes of 2024's viral events and news stories interacting with each other:
+>
+> Sports: A section dedicated to the Paris Olympics, featuring a breakdancer doing a "kangaroo" hop (Raygun) and a pole vaulter looking awkward near a crossbar.
+>
+> Music & Culture: A large group of people dressed in lime green partying (representing "Brat summer"), alongside a caricature of Taylor Swift cheering at a football game. Two rappers (representing the Kendrick/Drake beef) standing on opposite street corners shouting comically at each other.
+>
+> Viral Animals: A small, chaotic baby hippo (Moo Deng) running loose and nipping at people's ankles.
+>
+> News/Events: A crowd of people all looking up at the sky wearing cardboard glasses (for the Solar Eclipse). A futuristic, angular silver truck (Cybertruck) looking broken down on the side of the road. A chaotic voting booth scene representing the "Year of Elections" globally, with cartoonish Donkey and Elephant mascots boxing in a ring.
+>
+> Atmosphere:
+>
+> The overall mood should be frantic, humorous, and overwhelming, capturing the "doom-scrolling" energy of the year while remaining colorful and fun.
 
 ---
 
