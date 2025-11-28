@@ -24,6 +24,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Material Retexturing](#material-retexturing)
 - [Design & Layout](#📐-design--layout)
   - [Themed Webpage](#themed-webpage)
+  - [Cohesive Instagram Feed](#cohesive-instagram-feed)
   - [2026 Themed Calendar](#2026-themed-calendar)
   - [Isometric City Weathercards](#isometric-city-weathercards)
 - [Animated](#🎞️-animated)
@@ -365,6 +366,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > [TEXT] themed Google homepage design. The iconic word "Google" is typographically sculpted using the signature materials, textures, and colors of this specific style. The search bar and background are reimagined to fit this world perfectly. High-end UI concept, cinematic lighting, incredibly detailed
 
 **Note:** Simply replace [TEXT] with any subject: Lego, Matrix, Cheese etc
+
+---
+
+</details>
+
+### Cohesive Instagram Feed
+
+<img src="https://github.com/user-attachments/assets/125ef2db-f8aa-415c-b3ea-9b72a7bda548" width="400" alt="Cohesive Instagram Feed">
+
+**Author:** [Gizem Akdag](https://x.com/gizakdag) | **Source:** [Twitter/X Thread](https://x.com/gizakdag/status/1993777913548984394)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a product image)
+
+**Nano Banana Pro prompt:**
+> Create a 9-image Instagram feed for this product in the same aesthetic. Use different locations, angles, and compositions, incorporating people, animals, nature, and various environments while maintaining a cohesive visual style.
 
 ---
 
