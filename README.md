@@ -11,6 +11,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
+  - [Food Process Diagram](#food-process-diagram)
   - [Product Evolution Timeline](#product-evolution-timeline)
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
   - [Patent Style](#patent-style)
@@ -121,6 +122,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > make an infographic about the seven wonders of the ancient world, on a parchment paper
+
+---
+
+</details>
+
+### Food Process Diagram
+
+<img src="https://github.com/user-attachments/assets/ac8039c4-58f0-4799-81e1-ec33a43024a4" width="400" alt="Food Process Diagram">
+
+**Author:** [God of Prompt](https://x.com/godofprompt) | **Source:** [Twitter/X Thread](https://x.com/godofprompt/status/1993989040740422074)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Detailed food process diagram showing how Japanese ramen is made. Labeled steps: broth simmering, noodle making, tare preparation, toppings, assembly. Top down and cutaway views, clean illustrations, minimal palette, neat icons, steam wisps for warmth.
 
 ---
 
