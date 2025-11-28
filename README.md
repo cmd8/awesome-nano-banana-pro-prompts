@@ -23,6 +23,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Isometric Architecture](#isometric-architecture)
   - [Material Retexturing](#material-retexturing)
 - [Design & Layout](#📐-design--layout)
+  - [Themed Webpage](#themed-webpage)
   - [2026 Themed Calendar](#2026-themed-calendar)
   - [Isometric City Weathercards](#isometric-city-weathercards)
 - [Animated](#🎞️-animated)
@@ -348,6 +349,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 </details>
 
 ## 📐 Design & Layout
+
+### Themed Webpage
+
+<img src="https://github.com/user-attachments/assets/29a769bc-ea76-4366-b5bd-3ca3fe139605" width="400" alt="Themed Google Homepage">
+
+**Author:** [AI Pulse](https://x.com/youraipulse) | **Source:** [Twitter/X Thread](https://x.com/youraipulse/status/1994133650821271641)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> [TEXT] themed Google homepage design. The iconic word "Google" is typographically sculpted using the signature materials, textures, and colors of this specific style. The search bar and background are reimagined to fit this world perfectly. High-end UI concept, cinematic lighting, incredibly detailed
+
+**Note:** Simply replace [TEXT] with any subject: Lego, Matrix, Cheese etc
+
+---
+
+</details>
 
 ### 2026 Themed Calendar
 
