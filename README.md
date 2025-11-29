@@ -5,7 +5,7 @@
 A curated collection of high-fidelity prompts, styles and workflows for Nano Banana Pro.
 
 ## 📚 Table of Contents
-- [Infographics](#📊-infographics)
+- [📊 Infographics](#-infographics)
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
@@ -15,20 +15,20 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Product Evolution Timeline](#product-evolution-timeline)
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
   - [Patent Style](#patent-style)
-- [Photography & Realistic](#📸-photography--realistic)
+- [📸 Photography & Realistic](#-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
-- [Art & Illustration](#🎨-art--illustration)
+- [🎨 Art & Illustration](#-art--illustration)
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
-- [3D & Renders](#🧊-3d--renders)
+- [🧊 3D & Renders](#-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
   - [Material Retexturing](#material-retexturing)
-- [Design & Layout](#📐-design--layout)
+- [📐 Design & Layout](#-design--layout)
   - [Themed Webpage](#themed-webpage)
   - [Cohesive Instagram Feed](#cohesive-instagram-feed)
   - [2026 Themed Calendar](#2026-themed-calendar)
   - [Isometric City Weathercards](#isometric-city-weathercards)
-- [Animated](#🎞️-animated)
+- [🎞️ Animated](#-animated)
   - [Claymation Infographic](#claymation-infographic)
 
 ## 📊 Infographics
