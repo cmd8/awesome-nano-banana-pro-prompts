@@ -28,6 +28,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Cohesive Instagram Feed](#cohesive-instagram-feed)
   - [2026 Themed Calendar](#2026-themed-calendar)
   - [Isometric City Weathercards](#isometric-city-weathercards)
+  - [RPG Game Asset Sheet](#rpg-game-asset-sheet)
 - [🎞️ Animated](#-animated)
   - [Claymation Infographic](#claymation-infographic)
 
@@ -450,6 +451,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 >
 > The text should match the input city's native language.
 > Please retrieve current weather conditions for the specified city before rendering.
+
+---
+
+</details>
+
+### RPG Game Asset Sheet
+
+<img src="https://github.com/user-attachments/assets/c83b611a-84ce-4535-b9c4-770c7074f660" width="400" alt="RPG Game Asset Sheet">
+
+**Author:** [Epoc](https://x.com/Epoc_1) | **Source:** [Twitter/X Thread](https://x.com/Epoc_1/status/1994618672128954669)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Make a game asset sheet for an RPG fantasy game with monsters, with different levels and item drops
 
 ---
 
