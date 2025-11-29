@@ -15,6 +15,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Product Evolution Timeline](#product-evolution-timeline)
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
   - [Patent Style](#patent-style)
+  - [Technical Cross-Section](#technical-cross-section)
 - [📸 Photography & Realistic](#-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -206,6 +207,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > Add some patent text explanation below.
 
 *Note: You can vary the second paragraph to describe different inventions.*
+
+---
+
+</details>
+
+### Technical Cross-Section
+
+<img src="https://github.com/user-attachments/assets/dd0e5db5-140f-4511-b70a-61831b8090c4" width="400" alt="Technical Cross-Section">
+
+**Author:** [John Coogan](https://x.com/johncoogan) | **Source:** [Twitter/X Thread](https://x.com/johncoogan/status/1994277461912375330)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Make an “incredible cross section” of an Anduril Fury drone.
 
 ---
 
