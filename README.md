@@ -23,6 +23,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [🧊 3D & Renders](#-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
   - [Material Retexturing](#material-retexturing)
+  - [3D Celebrity Caricature](#3d-celebrity-caricature)
 - [📐 Design & Layout](#-design--layout)
   - [Themed Webpage](#themed-webpage)
   - [Cohesive Instagram Feed](#cohesive-instagram-feed)
@@ -364,6 +365,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 >   },
 >   "vibe": "futuristic techno-art, minimalist, detailed internal structure"
 > }
+
+---
+
+</details>
+
+### 3D Celebrity Caricature
+
+<img src="https://github.com/user-attachments/assets/bc1d87c3-b5fe-4606-a47b-f76543a18c2e" width="400" alt="3D Celebrity Caricature">
+
+**Author:** [Dr.duet](https://x.com/Sheldon056) | **Source:** [Twitter/X Thread](https://x.com/Sheldon056/status/1994613893575119336)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A highly stylized 3D caricature of [celebrity], with an oversized head, expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Minimal background to emphasize the character’s charm and presence.
 
 ---
 
