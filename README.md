@@ -9,6 +9,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
+  - [Deconstructed Food](#deconstructed-food)
   - [Glass Whiteboard](#glass-whiteboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
@@ -88,6 +89,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hand drawn isometric schematic diagram of this street
+
+---
+
+</details>
+
+### Deconstructed Food
+
+<img src="https://github.com/user-attachments/assets/6e1a09a7-1695-4935-b32f-211b76efe06e" width="400" alt="Deconstructed Food">
+
+**Author:** [feyber.edge🦭 | B N K](https://x.com/woleswoosh) | **Source:** [X (Twitter)](https://x.com/woleswoosh/status/1994773362875535462)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Create a hyper-realistic infographic of authentic Ayam Geprek (chrused whole leg), deconstructed to show the texture of the crispy golden-brown fried chicken batter, the tender smashed meat, and the glistening, sambal bawang topping. Label each layer including the steaming white rice and fresh cucumber garnish (on a ayam jago plate) with its flavor profile.
 
 ---
 
