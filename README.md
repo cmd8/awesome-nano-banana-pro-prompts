@@ -27,6 +27,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
 - [🧊 3D & Renders](#-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
+  - [Landmark Diorama](#landmark-diorama)
   - [Material Retexturing](#material-retexturing)
   - [Miniature Pop-up Book](#miniature-pop-up-book)
   - [3D Celebrity Caricature](#3d-celebrity-caricature)
@@ -418,6 +419,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.
+
+---
+
+</details>
+
+### Landmark Diorama
+
+<img src="https://github.com/user-attachments/assets/3624743c-daae-4953-b30b-85e4c2a86d5f" width="400" alt="Landmark Diorama">
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [X (Twitter)](https://x.com/TechieBySA/status/1995222971305386008)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Create a hyper-realistic 3D diorama-style model of [LANDMARK NAME]. The model should appear as a miniature, set on a raised cross-section of earth that reveals soil and rock layers beneath a lush grassy surface. The structure must be highly detailed and proportionally accurate, surrounded by tiny realistic elements like region-appropriate street lamps, native trees, shrubs, water features like small fountains, and historically or culturally fitting pathways. The scene should evoke the unique character of [LANDMARK NAME]’s surrounding landscape. The environment must include a soft white background to draw full attention to the model. Include the text “[LANDMARK NAME]” in large, bold, elegant lettering prominently displayed on a big sign or billboard at the front of the diorama, easily readable and eye-catching, along with a large national flag on a tall, prominent flagpole positioned beside [LANDMARK NAME], clearly visible and waving. 1080x1080 dimension
 
 ---
 
