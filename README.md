@@ -19,6 +19,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
   - [Patent Style](#patent-style)
   - [Technical Cross-Section](#technical-cross-section)
+  - [Vintage Blueprint](#vintage-blueprint)
 - [📸 Photography & Realistic](#-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
@@ -293,6 +294,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Make an “incredible cross section” of an Anduril Fury drone.
+
+---
+
+</details>
+
+### Vintage Blueprint
+
+<img src="https://github.com/user-attachments/assets/9437d9e2-fb1c-47e4-98fa-acb9671aef62" width="400" alt="Vintage Blueprint">
+
+**Author:** [AISauce](https://x.com/aisauce_x) | **Source:** [X (Twitter)](https://x.com/aisauce_x/status/1995364272596308429)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Vintage blueprint infographic explaining [your topic], technical annotations, isometric elements, sepia overlay on white, labeled arrows, Nano Banana Pro 4K image generation, ultra-sharp lines and text.
 
 ---
 
