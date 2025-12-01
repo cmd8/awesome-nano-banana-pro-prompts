@@ -9,6 +9,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
+  - [Glass Whiteboard](#glass-whiteboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
   - [Food Process Diagram](#food-process-diagram)
@@ -87,6 +88,34 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hand drawn isometric schematic diagram of this street
+
+---
+
+</details>
+
+### Glass Whiteboard
+
+<img src="https://github.com/user-attachments/assets/17eacd25-5a3d-4770-8af3-48bf6bc5c8d0" width="400" alt="Glass Whiteboard">
+
+**Author:** [Alexandeisme](https://www.reddit.com/user/Alexandeisme/) | **Source:** [Reddit Thread](https://www.reddit.com/r/ChatGPT/comments/1pax35z/nano_banana_2_gave_a_pretty_wild_output_when/)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Pretend you are an instructor doing an explanation with hand-drawn glass whiteboard on the wall. Using a slightly faded colored marker. Title: “What the hell is Love?? (like yeah from multi perspectives from philosophy and evolution and detailed annotated)" positioned at the center layout and add sticky notes
+>
+> 6 Layouts separated with marker separator drawn and ELI5 in rawest and blunt manner and aesthetic shaped doodle!
+>
+> Photo requirements:
+>
+> - Shot on iPhone with slight frontal angle visible glass reflections and slight glare, during the nighttime indoor with warm light.
+>
+> - Various of colored Marker strokes clearly hand-drawn; slight fade and texture.
+>
+> - Include board edges or bedroom room context for authenticity.
 
 ---
 
