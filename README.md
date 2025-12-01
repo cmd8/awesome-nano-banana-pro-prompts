@@ -11,6 +11,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Deconstructed Food](#deconstructed-food)
   - [Glass Whiteboard](#glass-whiteboard)
+  - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
   - [Food Process Diagram](#food-process-diagram)
@@ -136,6 +137,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > - Various of colored Marker strokes clearly hand-drawn; slight fade and texture.
 >
 > - Include board edges or bedroom room context for authenticity.
+
+---
+
+</details>
+
+### SWOT Analysis Corkboard
+
+<img src="https://github.com/user-attachments/assets/8b3ff7a2-4544-47dc-a5d8-fa38601c0f91" width="400" alt="SWOT Analysis Corkboard">
+
+**Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [X (Twitter)](https://x.com/umesh_ai/status/1994689752503914532)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Large corkboard filling the frame, divided into four clear quadrants labeled Strengths, Weaknesses, Opportunities, Threats for a detailed SWOT analysis. At the top, a neat header: “SWOT Analysis of [ANYTHING_GOES_HERE]”. Each quadrant is covered with colorful sticky notes, each showing 1–2 lines of specific, insightful analysis about advantages, drawbacks, external chances, and external risks, with hints of causes, consequences, stakeholders, and future scenarios. Use varied handwriting styles, arrows linking related notes, small icons, doodles and underlines to suggest deep, organized thinking. Warm, soft lighting, realistic paper and cork textures, slight depth-of-field blur, and a few empty sticky notes at the edges to imply space for adding even more detailed points later.
 
 ---
 
