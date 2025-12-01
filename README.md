@@ -26,6 +26,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [🧊 3D & Renders](#-3d--renders)
   - [Isometric Architecture](#isometric-architecture)
   - [Material Retexturing](#material-retexturing)
+  - [Miniature Pop-up Book](#miniature-pop-up-book)
   - [3D Celebrity Caricature](#3d-celebrity-caricature)
 - [📐 Design & Layout](#-design--layout)
   - [Themed Webpage](#themed-webpage)
@@ -432,6 +433,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 >   },
 >   "vibe": "futuristic techno-art, minimalist, detailed internal structure"
 > }
+
+---
+
+</details>
+
+### Miniature Pop-up Book
+
+<img src="https://github.com/user-attachments/assets/4969338b-62eb-410c-8ff9-1ff662d3d3b9" width="400" alt="Miniature Pop-up Book">
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [X (Twitter)](https://x.com/TechieBySA/status/1994740862656380961)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition
 
 ---
 
