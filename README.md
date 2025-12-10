@@ -40,6 +40,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
   - [Isometric Miniature Room](#isometric-miniature-room)
+  - [Isometric Multiverse Diorama](#isometric-multiverse-diorama)
   - [Landmark Diorama](#landmark-diorama)
   - [Material Retexturing](#material-retexturing)
   - [Miniature Pop-up Book](#miniature-pop-up-book)
@@ -732,6 +733,44 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 **Nano Banana Pro prompt:**
 > An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everything strictly contained within the cube). The room is [ROOM DESCRIPTION: Describe the theme, furniture, specific clutter, wall decorations, and key items in detail].
 > Character: a chibi/figurine-style — [INSERT DESCRIPTION OF THE PERSON FROM YOUR UPLOADED PHOTO HERE]. The character is [ACTION: e.g., sitting on a chair typing, standing and cooking, playing guitar], with a [EXPRESSION: e.g., focused, happy, smiling] expression. Figure material looks like matte PVC, with big head / small body proportions. Lighting: [ATMOSPHERE NAME]: [LIGHT SOURCES: e.g., neon blue glow, warm sunlight, golden lamp light]; realistic reflections and colored shadows. Camera: slightly elevated isometric three-quarter view, front cube edge centered; no elements protruding outside the cube. Photoreal materials with fine detail; neutral backdrop. Ultra-detailed, clean composition; no watermark.
+
+---
+
+</details>
+
+### Isometric Multiverse Diorama
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339677/nbp-prompts/e6808ddb610d80e244980ecff45d89ae.png" width="400" alt="Isometric Multiverse Diorama">
+
+**Author:** [Jerlin](https://x.com/eviljer) | **Source:** [Twitter/X](https://x.com/eviljer/status/1996878448288321638/photo/4)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A clear floating top-down isometric 3D cartoon diorama scene with a vertical inverted composition:
+> Scene(cute): the upper half shows [Subject]'s most iconic defining scene - prefer full shot in outdoor. The lower half reveals [Subject]'s contrasting opposite realm. CRITICAL: the lower world must be geometrically flipped upside-down. The boundary floor is shared.
+>
+> Interpret [Subject]'s narrative essence: place the protagonist that captures their defining choice or transformation — the same figure appears in both realms, but emotionally inverted. Place 2 distinct symbolic objects naturally within their respective worlds, echoing each other across the boundary to suggest what was abandoned or gained.
+>
+> Two realms merge as one continuous form — the boundary transitions through ground, subtle color/lighting shift, maintaining structural integrity. No visible dividing line, no frame, no mask — the isometric architecture remains crisp and clear while flowing seamlessly into its inverted reflection.
+>
+> Composition: clean, dramatic upside-down multiverse. Open spatial vista, not enclosed by walls.
+> Background: a bright, soft gradient background that seamlessly blends into the scene.
+>
+> Lighting: contextually appropriate.
+>
+> Render: high poly with soft shading. PBR material, refined textures, intricate and delicate detailed, vivid colors. hd.
+>
+> Typography(top-center, film grade): design a prominent title "[Subject]" in slim font with nice serif(Auto translate to English, remove []) → a poetic, insightful subtitle that distills the story's deepest truth or tension into one profound line. Create clear visual hierarchy through scale and weight contrast. auto line wrap.
+>
+> Enhance: professional cinematic lighting with intentional key/fill/rim setup; dynamic pose; visual depth.
+>
+> Avoid: [border-cut, hard cartoon outlines, over-saturated, smudged/distorted boundaries, warped architecture. Ceiling].
+>
+> [Subject] = The Lord of the Rings
 
 ---
 
