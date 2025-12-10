@@ -36,6 +36,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [🧊 3D & Renders](#-3d--renders)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
+  - [Isometric Miniature Room](#isometric-miniature-room)
   - [Landmark Diorama](#landmark-diorama)
   - [Material Retexturing](#material-retexturing)
   - [Miniature Pop-up Book](#miniature-pop-up-book)
@@ -654,6 +655,25 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.
+
+---
+
+</details>
+
+### Isometric Miniature Room
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339175/nbp-prompts/f421abf3b2d18f35724fd5f24273f6cb.png" width="400" alt="Isometric Miniature Room">
+
+**Author:** [ΛRMIN | AI](https://x.com/Arminn_Ai) | **Source:** [Twitter/X Thread](https://x.com/Arminn_Ai/status/1998041013890240989/photo/1)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everything strictly contained within the cube). The room is [ROOM DESCRIPTION: Describe the theme, furniture, specific clutter, wall decorations, and key items in detail].
+> Character: a chibi/figurine-style — [INSERT DESCRIPTION OF THE PERSON FROM YOUR UPLOADED PHOTO HERE]. The character is [ACTION: e.g., sitting on a chair typing, standing and cooking, playing guitar], with a [EXPRESSION: e.g., focused, happy, smiling] expression. Figure material looks like matte PVC, with big head / small body proportions. Lighting: [ATMOSPHERE NAME]: [LIGHT SOURCES: e.g., neon blue glow, warm sunlight, golden lamp light]; realistic reflections and colored shadows. Camera: slightly elevated isometric three-quarter view, front cube edge centered; no elements protruding outside the cube. Photoreal materials with fine detail; neutral backdrop. Ultra-detailed, clean composition; no watermark.
 
 ---
 
