@@ -25,8 +25,9 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Technical Cross-Section](#technical-cross-section)
   - [Vintage Blueprint](#vintage-blueprint)
 - [📸 Photography & Realistic](#-photography--realistic)
-  - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
+  - [Polaroid Storyboard](#polaroid-storyboard)
+  - [Shaped Cave Landscape](#shaped-cave-landscape)
   - [Vertical Slice Glitch](#vertical-slice-glitch)
 - [🎬 Cinematic & Stylized](#🎬-cinematic--stylized)
   - [Era Blend](#era-blend)
@@ -416,6 +417,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 ## 📸 Photography & Realistic
 
+### Knolling
+
+<img src="https://github.com/user-attachments/assets/b5f83fbd-830e-4c9a-bdf1-db6236472910" width="400" alt="Knolling">
+
+**Author:** [Nano Banana](https://x.com/NanoBanana) | **Source:** [Twitter/X Thread](https://x.com/NanoBanana/status/1993311207714177251)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> A knolling for Google DeepMind
+
+---
+
+</details>
+
 ### Polaroid Storyboard
 
 <img width="400" alt="Polaroid Storyboard" src="https://github.com/user-attachments/assets/5a5f2eed-af05-4c3c-8063-3a132db642e1" />
@@ -434,12 +453,11 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 </details>
 
+### Shaped Cave Landscape
 
-### Knolling
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339381/nbp-prompts/aeff3677c86bdbdee4ef642d16217420.png" width="400" alt="Shaped Cave Landscape">
 
-<img src="https://github.com/user-attachments/assets/b5f83fbd-830e-4c9a-bdf1-db6236472910" width="400" alt="Knolling">
-
-**Author:** [Nano Banana](https://x.com/NanoBanana) | **Source:** [Twitter/X Thread](https://x.com/NanoBanana/status/1993311207714177251)
+**Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [Twitter/X](https://x.com/umesh_ai/status/1997265335494595040)
 
 <details>
 <summary>Prompt</summary>
@@ -447,7 +465,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 <br>
 
 **Nano Banana Pro prompt:**
-> A knolling for Google DeepMind
+> An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
 
 ---
 
