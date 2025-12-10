@@ -55,6 +55,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [2026 Themed Calendar](#2026-themed-calendar)
   - [Isometric City Weathercards](#isometric-city-weathercards)
   - [RPG Game Asset Sheet](#rpg-game-asset-sheet)
+  - [Stereotypical Desktop Screenshots](#stereotypical-desktop-screenshots)
 - [🎞️ Animated](#-animated)
   - [Claymation Infographic](#claymation-infographic)
 
@@ -1083,6 +1084,24 @@ Date: 12/3/2025
 
 **Nano Banana Pro prompt:**
 > Make a game asset sheet for an RPG fantasy game with monsters, with different levels and item drops
+
+---
+
+</details>
+
+### Stereotypical Desktop Screenshots
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339880/nbp-prompts/82205fb4fdbeb3862cf691e1a260abc4.png" width="400" alt="Stereotypical Desktop Screenshots">
+
+**Author:** [Eugene Oldman](https://x.com/_cmd8) | **Source:** [Twitter/X](https://x.com/_cmd8/status/1996190392321290712)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Generate a desktop screenshot that looks like it belongs to a stereotypical occupation or person (smuggler in this example)
 
 ---
 
