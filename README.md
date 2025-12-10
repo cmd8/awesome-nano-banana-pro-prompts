@@ -27,6 +27,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Patent Style](#patent-style)
   - [Technical Cross-Section](#technical-cross-section)
   - [Vintage Blueprint](#vintage-blueprint)
+  - [Watercolor Travel Map](#watercolor-travel-map)
 - [📸 Photography & Realistic](#-photography--realistic)
   - [Knolling](#knolling)
   - [Polaroid Storyboard](#polaroid-storyboard)
@@ -471,6 +472,27 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Vintage blueprint infographic explaining [your topic], technical annotations, isometric elements, sepia overlay on white, labeled arrows, Nano Banana Pro 4K image generation, ultra-sharp lines and text.
+
+---
+
+</details>
+
+### Watercolor Travel Map
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339929/nbp-prompts/4d443f332b8c1fc35808741392409c5c.png" width="400" alt="Watercolor Travel Map">
+
+**Author:** [Aleena Amir](https://x.com/aleenaamiir) | **Source:** [Twitter/X](https://x.com/aleenaamiir/status/1997881107573076073)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Paint a soft watercolor travel-map illustration of [CITY], showing stylized hand-painted versions of key districts, parks, icons, and roads.
+> Use washed-out pastel hues and textured paper grain.
+> Small handwritten labels for each landmark, with a decorative compass icon in the corner.
+> Title “[CITY MAP]” in elegant brush-style lettering.
 
 ---
 
