@@ -11,6 +11,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Daily Readiness Infographic](#daily-readiness-infographic)
   - [Deconstructed Food](#deconstructed-food)
+  - [Exploded Technical View](#exploded-technical-view)
   - [Glass Whiteboard](#glass-whiteboard)
   - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
   - [Hollywood Classic Scenes Whiteboard](#hollywood-classic-scenes-whiteboard)
@@ -145,6 +146,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hyper-realistic infographic of authentic Ayam Geprek (chrused whole leg), deconstructed to show the texture of the crispy golden-brown fried chicken batter, the tender smashed meat, and the glistening, sambal bawang topping. Label each layer including the steaming white rice and fresh cucumber garnish (on a ayam jago plate) with its flavor profile.
+
+---
+
+</details>
+
+### Exploded Technical View
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339475/nbp-prompts/8ddd39f353b707a928ccb045ede96aa5.png" width="400" alt="Exploded Technical View">
+
+**Author:** [AmirMušić](https://x.com/AmirMushich) | **Source:** [Twitter/X Thread](https://x.com/AmirMushich/status/1996996638452208104)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Generate an ultra-detailed, drawing exploded technical view of [ANYTHING]
 
 ---
 
