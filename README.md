@@ -15,6 +15,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Exploded Technical View](#exploded-technical-view)
   - [Glass Whiteboard](#glass-whiteboard)
   - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
+  - [Hand-Drawn Urban Planning Map](#hand-drawn-urban-planning-map)
   - [Hollywood Classic Scenes Whiteboard](#hollywood-classic-scenes-whiteboard)
   - [Insane Roast Scribbles](#insane-roast-scribbles)
   - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
@@ -230,6 +231,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > (Full top-down 2D flat cartographic map view of [City] city street layout:1.5), rendered in the strict and authentic style of the Grand Theft Auto V (GTA V) pause menu map, monochrome dark theme with high contrast, stylized black and white vector graphics, dark grey city blocks and urban zones, clear light grey lines for all roads and highway networks, pure black for ocean and water bodies, clean sharp edges. Crucially, the map features exactly 10 specific icons representing famous landmarks and major districts of [City]. These icons are geographically accurately placed on the map according to their real-world locations. On the right side of the screen, the legend menu list displays exactly these 10 famous landmark names specific to the city (e.g., Landmark Name 1, Landmark Name 2, Major District A, Historical Site B, etc.), each with its corresponding unique white vector icon next to it, replacing the generic GTA game icons. The compass rose and scale bar are present. No 3D elements, no color, clean UI look.
+
+---
+
+</details>
+
+### Hand-Drawn Urban Planning Map
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339694/nbp-prompts/7880e26eeb9b8415bbd3ac179b48bca3.png" width="400" alt="Hand-Drawn Urban Planning Map">
+
+**Author:** [Evan Applegate](https://x.com/youwillmakemaps) | **Source:** [Twitter/X](https://x.com/youwillmakemaps/status/1998452941871874406/photo/2)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a Google Maps 3D oblique view screenshot)
+
+**Nano Banana Pro prompt:**
+> hand-drawn urban planning map
 
 ---
 
