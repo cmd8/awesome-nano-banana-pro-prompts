@@ -40,6 +40,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
   - [Fanta Bottle Fantasy Castle](#fanta-bottle-fantasy-castle)
   - [Four Seasons Panorama](#four-seasons-panorama)
+  - [Hand-Drawn Caricature](#hand-drawn-caricature)
 - [🧊 3D & Renders](#-3d--renders)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
@@ -754,6 +755,61 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > Hyper-realistic digital illustration of {Scene}, presented as a single continuous composition showcasing the cycle of seasons. The scene flows seamlessly from left to right in a natural progression: Winter, Spring, Summer, and Autumn. 
 > The left side features cold snowy winter elements, gradually thawing into the fresh green buds and blooms of spring, then morphing into the lush vibrant vegetation and bright sunlight of summer, and finally transitioning into the golden, orange, and red hues of autumn on the far right. 
 > There are no visible dividing lines between seasons; the weather, lighting, and vegetation blend smoothly to create a unified and harmonious panorama. Rich in detail, symbolic of the passage of time, cinematic lighting, 8k resolution, highly detailed textures. --ar 4:3
+
+---
+
+</details>
+
+### Hand-Drawn Caricature
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765340011/nbp-prompts/2ffb175287d9dfb307283e9dc7cd0d2d.png" width="400" alt="Hand-Drawn Caricature">
+
+**Author:** [Nagma X](https://x.com/Nagma_1X) | **Source:** [Twitter/X Status](https://x.com/Nagma_1X/status/1997328222309024210)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> {
+> "style": {
+>   "type": "hand-drawn caricature",
+>   "technique": "cross-hatching, fine ink lines",
+>   "mood": "serious, slightly exaggerated expression",
+>   "medium": "black and white sketch"
+> },
+> "subject": {
+>   "type": "male figure",
+>   "age": "middle-aged",
+>   "skin_texture": "detailed line work with emphasized shading",
+>   "hair": {
+>     "style": "short, tightly curled",
+>     "texture": "dense linework"
+>   },
+>   "facial_features": {
+>     "eyes": "narrow, expressive, slightly squinting",
+>     "eyebrows": "furrowed, showing intensity",
+>     "nose": "long and defined with accentuated shading",
+>     "mouth": "exaggerated downward curve, caricatured pout",
+>     "ears": "large and prominently exaggerated",
+>     "jawline": "elongated and structured with sharp lines"
+>   }
+> },
+> "composition": {
+>   "pose": "straightforward headshot with slight tilt",
+>   "framing": "upper torso visible, suit collar included",
+>   "background": "clean white, no elements"
+> },
+> "clothing": {
+>   "attire": "formal suit",
+>   "details": "sharp collar lines with textured shading"
+> },
+> "notes": {
+>   "emphasis": "hyper-exaggeration of facial structure",
+>   "aesthetic": "editorial political-cartoon style"
+> }
+> }
 
 ---
 
