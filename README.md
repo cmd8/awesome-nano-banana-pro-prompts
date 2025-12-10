@@ -13,6 +13,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Deconstructed Food](#deconstructed-food)
   - [Glass Whiteboard](#glass-whiteboard)
   - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
+  - [Hollywood Classic Scenes Whiteboard](#hollywood-classic-scenes-whiteboard)
   - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
@@ -183,6 +184,31 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > (Full top-down 2D flat cartographic map view of [City] city street layout:1.5), rendered in the strict and authentic style of the Grand Theft Auto V (GTA V) pause menu map, monochrome dark theme with high contrast, stylized black and white vector graphics, dark grey city blocks and urban zones, clear light grey lines for all roads and highway networks, pure black for ocean and water bodies, clean sharp edges. Crucially, the map features exactly 10 specific icons representing famous landmarks and major districts of [City]. These icons are geographically accurately placed on the map according to their real-world locations. On the right side of the screen, the legend menu list displays exactly these 10 famous landmark names specific to the city (e.g., Landmark Name 1, Landmark Name 2, Major District A, Historical Site B, etc.), each with its corresponding unique white vector icon next to it, replacing the generic GTA game icons. The compass rose and scale bar are present. No 3D elements, no color, clean UI look.
+
+---
+
+</details>
+
+### Hollywood Classic Scenes Whiteboard
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765336391/nbp-prompts/1c32892d73ed19d0314d57cec8de7cfe.png" width="400" alt="Hollywood Classic Scenes Whiteboard">
+
+**Author:** [KANA](https://x.com/KanaWorks_AI) | **Source:** [Twitter/X](https://x.com/KanaWorks_AI/status/1996597150248268141)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> whiteboard layout explaining classic Hollywood movie tropes and iconic scenes.
+> At the top of the board, pin a paper label with the handwritten title: 「Hollywood Classic Scenes Explained」 in large bold characters.
+> Below the title, begin listing 12 or more classic cinematic tropes or storytelling moments in a clean academic format.
+> Under each listed trope, include a small movie still (film screenshot) representing the scene, along with a brief handwritten-style explanation summarizing its meaning, emotional impact, or narrative purpose.
+> Use colored marker lines (red, blue, yellow) to highlight important keywords, arrows, and structural connections—similar to film theory notes from a screenwriting lecture.
+> Create a warm nostalgic lighting mood with soft shadows to give the whiteboard a lived-in, cinematic classroom feel.
+> Overall visual tone: vintage, textured, cozy yet scholarly academy style, with a sense of curated film analysis.
+> Ensure the layout is high-contrast, highly readable, and clearly framed within the 1080x1080 resolution.
 
 ---
 
