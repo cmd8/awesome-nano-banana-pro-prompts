@@ -26,6 +26,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [🎨 Art & Illustration](#-art--illustration)
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
 - [🧊 3D & Renders](#-3d--renders)
+  - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
   - [Landmark Diorama](#landmark-diorama)
   - [Material Retexturing](#material-retexturing)
@@ -405,6 +406,30 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 </details>
 
 ## 🧊 3D & Renders
+
+### Futuristic City 2050
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765335555/nbp-prompts/a7f929d7e9c4076ad28a0ef99b8bf519.png" width="400" alt="Futuristic City 2050">
+
+**Author:** [Freddy Vega](https://x.com/freddier) | **Source:** [Twitter/X Thread](https://x.com/freddier/status/1996371434323529778)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Gemini 3 -> Nano Banana Pro
+
+**Nano Banana Pro prompt:**
+> 1. (Gemini 3)
+Research all the actual urban, architectural and city development projects currently in course or planned for [CITY] that will transform the city from now to 2050. Be specific about them.
+
+2.  (Nano Banana Pro)
+Research how these projects look and create a photography of how [CITY] would look according to that description in 2050, understanding that the new is build upon the old and most of the city will keep its original look of today, on top of the new projects. Add a text to the top center of the picture showing "[CITY] 2050" in a style fitting [CITY]. The photo should be realistic, slightly futuristic and taken at street level.
+
+---
+
+</details>
 
 ### Isometric Architecture
 
