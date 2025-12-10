@@ -12,6 +12,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Building Diagram from Photo](#building-diagram-from-photo)
   - [Daily Readiness Infographic](#daily-readiness-infographic)
   - [Deconstructed Food](#deconstructed-food)
+  - [Edible US Map](#edible-us-map)
   - [Exploded Technical View](#exploded-technical-view)
   - [Glass Whiteboard](#glass-whiteboard)
   - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
@@ -169,6 +170,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hyper-realistic infographic of authentic Ayam Geprek (chrused whole leg), deconstructed to show the texture of the crispy golden-brown fried chicken batter, the tender smashed meat, and the glistening, sambal bawang topping. Label each layer including the steaming white rice and fresh cucumber garnish (on a ayam jago plate) with its flavor profile.
+
+---
+
+</details>
+
+### Edible US Map
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339944/nbp-prompts/d511e6fd674f265ff6201b88caa42f45.png" width="400" alt="Edible US Map">
+
+**Author:** [Ethan Mollick](https://x.com/emollick) | **Source:** [Twitter/X](https://x.com/emollick/status/1995720976068137048)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> create a map of the US where every state is made out of its most famous food (the states should actually look like they are made of the food, not a picture of the food). Check carefully to make sure each state is right
 
 ---
 
