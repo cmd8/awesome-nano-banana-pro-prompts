@@ -35,6 +35,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Miniature 3D Company Diorama](#miniature-3d-company-diorama)
   - [3D Celebrity Caricature](#3d-celebrity-caricature)
 - [📐 Design & Layout](#-design--layout)
+  - [City Knolling Magnets](#city-knolling-magnets)
   - [Themed Webpage](#themed-webpage)
   - [Cohesive Instagram Feed](#cohesive-instagram-feed)
   - [2026 Themed Calendar](#2026-themed-calendar)
@@ -667,6 +668,24 @@ Date: 12/3/2025
 </details>
 
 ## 📐 Design & Layout
+
+### City Knolling Magnets
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765336104/nbp-prompts/e7a8d16145476dfc37888190965fbfc7.png" width="400" alt="City Knolling Magnets">
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Twitter/X Thread](https://x.com/TechieBySA/status/1995937193572139026/photo/1)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Present a clear, directly top-down photograph of [CITY] landmarks as 3D magnets, arranged neatly in parallel lines and right angles, knolling. The objects are realistic miniatures. At the top-center, place the city name as a souvenir magnet, and a handwritten post-it note for the temperature and weather conditions. Incorporate items necessary for today's weather into the knolling. No repeats. 1080x1080 dimension
+
+---
+
+</details>
 
 ### Themed Webpage
 
