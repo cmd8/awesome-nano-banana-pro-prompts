@@ -31,6 +31,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Landmark Diorama](#landmark-diorama)
   - [Material Retexturing](#material-retexturing)
   - [Miniature Pop-up Book](#miniature-pop-up-book)
+  - [Miniature 3D Company Diorama](#miniature-3d-company-diorama)
   - [3D Celebrity Caricature](#3d-celebrity-caricature)
 - [📐 Design & Layout](#-design--layout)
   - [Themed Webpage](#themed-webpage)
@@ -422,10 +423,10 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > 1. (Gemini 3)
-Research all the actual urban, architectural and city development projects currently in course or planned for [CITY] that will transform the city from now to 2050. Be specific about them.
-
-2.  (Nano Banana Pro)
-Research how these projects look and create a photography of how [CITY] would look according to that description in 2050, understanding that the new is build upon the old and most of the city will keep its original look of today, on top of the new projects. Add a text to the top center of the picture showing "[CITY] 2050" in a style fitting [CITY]. The photo should be realistic, slightly futuristic and taken at street level.
+> Research all the actual urban, architectural and city development projects currently in course or planned for [CITY] that will transform the city from now to 2050. Be specific about them.
+> 
+> 2.  (Nano Banana Pro)
+> Research how these projects look and create a photography of how [CITY] would look according to that description in 2050, understanding that the new is build upon the old and most of the city will keep its original look of today, on top of the new projects. Add a text to the top center of the picture showing "[CITY] 2050" in a style fitting [CITY]. The photo should be realistic, slightly futuristic and taken at street level.
 
 ---
 
@@ -533,6 +534,48 @@ Research how these projects look and create a photography of how [CITY] would lo
 
 **Nano Banana Pro prompt:**
 > A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition
+
+---
+
+</details>
+
+### Miniature 3D Company Diorama
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765335724/nbp-prompts/3a063f344d8d65459fe86e936d2e77e1.png" width="400" alt="Miniature 3D Company Diorama">
+
+**Author:** [宝玉](https://x.com/dotey) | **Source:** [Twitter/X Thread](https://x.com/dotey/status/1996344184840868264/photo/4)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
+> 
+> Place the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.
+> 
+> Rendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.
+> 
+> Creatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.
+>
+> At the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.
+>
+> All texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.
+> 
+> Very Important:
+> Before generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.
+>
+> Parameters:
+>
+> * Aspect ratio: {User input, default 1:1}
+> * Date: {User input, current date}
+> * Company name or stock ticker: {User input}
+
+---
+
+Company Name / Stock Ticker: Google
+Date: 12/3/2025
 
 ---
 
