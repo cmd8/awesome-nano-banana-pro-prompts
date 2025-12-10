@@ -50,6 +50,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Material Retexturing](#material-retexturing)
   - [Miniature Pop-up Book](#miniature-pop-up-book)
   - [Miniature 3D Company Diorama](#miniature-3d-company-diorama)
+  - [Stranger Things Diorama](#stranger-things-diorama)
   - [3D Celebrity Caricature](#3d-celebrity-caricature)
 - [📐 Design & Layout](#-design--layout)
   - [City Knolling Magnets](#city-knolling-magnets)
@@ -1003,6 +1004,101 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 Company Name / Stock Ticker: Google
 Date: 12/3/2025
+
+---
+
+</details>
+
+### Stranger Things Diorama
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339977/nbp-prompts/70d52152f09209acea7f7a8c13d4fdf2.png" width="400" alt="Stranger Things Diorama">
+
+**Author:** Sia | **Source:** [Twitter/X Status](x.com/going0to1/status/1997338058396729782)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> {
+> "theme_subject": "Stranger Things",
+> 
+> "instructions_to_model": {
+>   "step_1": "Research the visual identity of the 'theme_subject' (colors, key props, setting, mood).",
+>   "step_2": "Design a LARGE, WIDE, EXPANSIVE 3D isometric diorama block containing the physical elements of that world. The diorama should occupy at least 45–55% of the total frame width.",
+>   "step_3": "Design a background that is STRICTLY abstract/atmospheric (void, smoke, fog) ensuring NO physical environment extends beyond the diorama base.",
+>   "step_4": "Generate the image based on this JSON structure."
+> },
+> 
+> "web_ui_layout": {
+>   "canvas": {
+>     "aspect_ratio": "16:9",
+>     "composition": "A LARGE centered isometric miniature floating in a void.",
+>     
+>     "background_isolation_protocol": {
+>       "CRITICAL_RULE": "Do NOT generate a location, city, sky, foliage, or horizon in the background. The background must remain an abstract, cinematic void.",
+>       "style": "Professional studio atmosphere.",
+>       "elements_allowed": [
+>         "Volumetric fog / Depth haze",
+>         "Floating particles (ash, spores, dust, embers, digital flecks)",
+>         "Color gradients tied to theme palette",
+>         "Soft vignette shadows"
+>       ],
+>       "elements_forbidden": [
+>         "Real landscapes",
+>         "Forest silhouettes",
+>         "Rock formations",
+>         "Cloud formations",
+>         "Skies",
+>         "Horizons",
+>         "Buildings or trees outside the diorama"
+>       ]
+>     }
+>   },
+>   
+>   "navbar": {
+>     "position": "Top Right",
+>     "style": "Minimalist floating UI text with theme-consistent typography.",
+>     "content_generation_rule": "Generate 4 short menu items relevant to the theme_subject (e.g., for Jurassic Park: 'Isla Nublar', 'Dinosaurs', 'Fossils', 'Map')."
+>   },
+>   
+>   "hero_text": {
+>     "title": "{{theme_subject}}",
+>     "typography": "Theme-accurate title styling that resembles the official branding or aesthetic.",
+>     "visual_effects": "Apply subtle texture (stone, cracks, vines, neon, slime, depending on theme).",
+>     "position": "Centered behind the diorama and integrated into atmospheric depth."
+>   }
+> },
+> 
+> "diorama_content": {
+>   "definition": "A LARGE, EXPANSIVE, HIGHLY DETAILED square isometric slice of the world.",
+>   "base_generation_rule": "The base must be significantly larger than default miniature size. Use a proportion similar to a large floating tile that extends noticeably in all directions.",
+>   "scale_rule": {
+>     "tile_size": "Increase the diorama tile size by 200%-300% compared to a standard isometric miniature.",
+>     "coverage": "The diorama should dominate the scene and feel like a centerpiece landscape rather than a tiny block."
+>   },
+>   "prop_selection_rule": "Include 5–8 iconic objects, vehicles, creatures, or structures to fill the expanded space (e.g., Jurassic Gate, tour Jeep, T-Rex silhouette, dinosaur bones, amber egg, jungle foliage).",
+>   "environment_rule": "Add dense miniature vegetation, rocks, lighting props, footprints, thematic debris — enough to make the diorama feel alive and rich.",
+>   "character_rule": "Include tiny stylized figures or dinosaur silhouettes if relevant, but keep them proportional to the larger platform.",
+>   "layout_rule": "Use the increased size to create multiple zones or micro-scenes within a single diorama tile."
+> },
+> 
+> "theme_logic_engine": {
+>   "color_palette_generator": "Extract 2–3 dominant theme colors. Color A = diorama lighting, Color B = background haze, Color C = accent glow tones.",
+>   "particle_effect_generator": "Generate atmospheric particles according to theme (e.g., mist droplets for rainforest themes, spores for Stranger Things, cinders for dark magic, rain flecks for noir)."
+> },
+> 
+> "art_style": {
+>   "medium": "3D Blender Render, Isometric View, Orthographic Projection.",
+>   "texture_quality": "Claymation × PBR hybrid with high-resolution materials.",
+>   "lighting": {
+>     "primary": "Strong dramatic key light on the diorama.",
+>     "secondary": "Soft volumetric fog for the background.",
+>     "integration_rule": "All lighting MUST match between diorama and void background to maintain cinematic cohesion."
+>   }
+> }
+> }
 
 ---
 
