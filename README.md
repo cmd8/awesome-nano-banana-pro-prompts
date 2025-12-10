@@ -9,6 +9,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
+  - [Daily Readiness Infographic](#daily-readiness-infographic)
   - [Deconstructed Food](#deconstructed-food)
   - [Glass Whiteboard](#glass-whiteboard)
   - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
@@ -97,6 +98,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a hand drawn isometric schematic diagram of this street
+
+---
+
+</details>
+
+### Daily Readiness Infographic
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765336119/nbp-prompts/f49e790058c06b15c93793e121f7d1f3.png" width="400" alt="Daily Readiness Infographic">
+
+**Author:** [Nicole Brichtova](https://x.com/nbrichtova) | **Source:** [Twitter/X](https://x.com/nbrichtova/status/1996991112662360263)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Gemini (requires uploading a screenshot of the home screen)
+
+**Gemini prompt:**
+> Make a cute, minimalist 3D render “Daily readiness” infographic. Soft clay and ceramic textures. Import the current weather in SF and use my readiness stats. Recommend a workout and lunch
 
 ---
 
