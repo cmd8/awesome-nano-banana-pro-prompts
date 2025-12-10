@@ -42,6 +42,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Four Seasons Panorama](#four-seasons-panorama)
   - [Hand-Drawn Caricature](#hand-drawn-caricature)
 - [🧊 3D & Renders](#-3d--renders)
+  - [Culinary Diorama](#culinary-diorama)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
   - [Isometric Luxury Tropical Villa](#isometric-luxury-tropical-villa)
@@ -816,6 +817,38 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 </details>
 
 ## 🧊 3D & Renders
+
+### Culinary Diorama
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765340036/nbp-prompts/69cea8c8b0774515df5de157ab84d946.png" width="400" alt="Culinary Diorama">
+
+**Author:** [Dhaval Makwana](https://x.com/heyDhavall) | **Source:** [Twitter/X Status](https://x.com/heyDhavall/status/1996861448669266249)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Generate a square (1080x1080) isometric 3D illustration rendered in a charming miniature cartoon style with a 45-degree top-down view. The scene is a detailed culinary diorama set upon a rustic wooden kitchen counter surface, dedicated to the active preparation of the [DISH].
+> 
+> The focal point is a large, metallic frying pan centrally located, bubbling with rich, creamy sauce, pasta strands, and crispy pancetta, with distinct curls of steam rising to indicate the current [STATUS]. 
+> 
+> Tiny, stylized chef figures in toque hats populate the scene, some actively stirring the main dish with oversized wooden spoons, while others are busy grating cheese from massive, textured wheels of Pecorino Romano that tower over them like landmarks.
+> 
+> Surrounding the main action are other oversized ingredient "props," including a ceramic bowl filled with large, glossy golden egg yolks and a scattering of cracked black peppercorns across the wood grain.
+> 
+> The entire scene must be rendered with high-quality, realistic PBR textures (glistening sauce, porous cheese rinds, warm wood) and soft, inviting golden lighting that casts gentle shadows, creating a cozy atmosphere. The background is a clean, minimalist, solid warm cream color.
+> 
+> Positioned at the top center of the frame, overlaying the upper elements of the 3D scene, is the recipe UI block. It features the title “SPAGHETTI CARBONARA” in large, bold text.
+> 
+> Directly beneath the title is a prominent icon of a steaming pot crossed with a whisk. 
+> 
+> Below the icon, centered text displays “Prep: 20 mins” (in smaller font) followed by “Difficulty: Medium” (in medium font).
+
+---
+
+</details>
 
 ### Futuristic City 2050
 
