@@ -12,6 +12,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Daily Readiness Infographic](#daily-readiness-infographic)
   - [Deconstructed Food](#deconstructed-food)
   - [Glass Whiteboard](#glass-whiteboard)
+  - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
   - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
@@ -164,6 +165,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > - Various of colored Marker strokes clearly hand-drawn; slight fade and texture.
 >
 > - Include board edges or bedroom room context for authenticity.
+
+---
+
+</details>
+
+### GTA V Pause Menu Map
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765336285/nbp-prompts/35db294cc819f51b6314ed3511ee5bf6.png" width="400" alt="GTA V Pause Menu Map">
+
+**Author:** [ΛRMIN | AI](https://x.com/Arminn_Ai) | **Source:** [Twitter/X](https://x.com/Arminn_Ai/status/1996633839259504718)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> (Full top-down 2D flat cartographic map view of [City] city street layout:1.5), rendered in the strict and authentic style of the Grand Theft Auto V (GTA V) pause menu map, monochrome dark theme with high contrast, stylized black and white vector graphics, dark grey city blocks and urban zones, clear light grey lines for all roads and highway networks, pure black for ocean and water bodies, clean sharp edges. Crucially, the map features exactly 10 specific icons representing famous landmarks and major districts of [City]. These icons are geographically accurately placed on the map according to their real-world locations. On the right side of the screen, the legend menu list displays exactly these 10 famous landmark names specific to the city (e.g., Landmark Name 1, Landmark Name 2, Major District A, Historical Site B, etc.), each with its corresponding unique white vector icon next to it, replacing the generic GTA game icons. The compass rose and scale bar are present. No 3D elements, no color, clean UI look.
 
 ---
 
