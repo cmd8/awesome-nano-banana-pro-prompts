@@ -43,6 +43,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Four Seasons Panorama](#four-seasons-panorama)
   - [Hand-Drawn Caricature](#hand-drawn-caricature)
 - [🧊 3D & Renders](#-3d--renders)
+  - [Ancient City Diorama](#ancient-city-diorama)
   - [Culinary Diorama](#culinary-diorama)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
@@ -836,6 +837,55 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 </details>
 
 ## 🧊 3D & Renders
+
+### Ancient City Diorama
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765340154/nbp-prompts/9b4ecc1b2653e93175bffaafa9672d52.png" width="400" alt="Ancient City Diorama">
+
+**Author:** [Toby Wang](https://x.com/ZhichengWang87) | **Source:** [Twitter/X Status](https://x.com/ZhichengWang87/status/1996632023729889408/photo/1)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Present an exquisite, miniature 3D cartoon-style scene of the ancient city corresponding to the user-specified city name and historical period, rendered with Cinema 4D.
+> 
+> Camera and perspective:
+> Use a strict three-quarter isometric view, with the camera placed above the ground at roughly a 40–45° angle, looking diagonally toward the city so that both the roofs and the front sides of buildings and walls are clearly visible. The viewer should see two adjacent outer walls receding into depth, not a flat, orthographic, or blueprint-style top-down view. Do not render a straight top view where only roofs are visible; always show the facades and thickness of the city walls.
+> 
+> City layout and framing:
+> The entire city must be enclosed inside a continuous city wall that forms a clear, rounded-rectangle or square boundary. The walled city should be centered in the image and occupy only about 60–70% of the canvas area, leaving a wide, clean margin of solid background color on all sides. No buildings, props, terrain, or water may extend beyond the city walls, and no part of the walls or city may touch or be cropped by the edge of the image canvas. The scene should feel like a compact tabletop diorama.
+> 
+> Place the city’s most iconic landmark or central district prominently near the middle inside the walls (temples, forums, palaces, citadels, marketplaces, amphitheaters, etc.), complemented by proportionally sized residential quarters, streets, courtyards, city gates, docks or markets along the inner side of the walls, and other typical infrastructure. Populate the interior with charming cartoon-style figures, animals, carts, ships, and other elements showing everyday life, trade, worship, festivals, and crafts.
+> 
+> Modeling and rendering:
+> Use refined, smoothly rounded modeling with rich detail, using realistic PBR materials (stone, clay, marble, wood, bronze, fabric, water, earth). Apply gentle, lifelike lighting with soft shadows to create a warm, comfortable ambiance and clear depth within the miniature walled city, emphasizing the 3D form of buildings and walls at the 45° viewing angle.
+> 
+> Information layout and background symbols:
+> Creatively integrate the city’s key historical data for the user-specified period into the composition while preserving a clean, minimalist layout. Use the empty background area outside the walls for visual elements such as carved-stone panels, scrolls, or floating info cards, but keep all text and graphics clearly separated from the walled city silhouette so the city remains visually framed.
+> 
+> Instead of “rise/peak/decline” labels or growth charts, fill the background margin with small, elegant depictions of important historical figures, characters, and symbols directly associated with that city and era: for example, simplified portraits or reliefs of famous rulers, poets, generals, or philosophers; stylized calligraphic name seals; mythological motifs; iconic artifacts (stelae, pagodas, columns, statues, coins, or religious symbols). These should be rendered in a subtle, low-contrast style so they support but do not overpower the central city diorama.
+> 
+> Text:
+> At the top-center of the image, outside the city walls and fully within the background margin, prominently display the ancient city name in a large font. Directly below it in extra-small font, show the specified historical period or year; below that, in a medium font, show one line of key metrics (e.g., approximate population range, main dynasty/era, and a short role description such as “Silk Road hub” or “imperial capital”).
+> 
+> All texts should be displayed in the language specified or entered by the user, without any background boxes. They may subtly overlap the outer silhouette of the city walls while still remaining mostly in the negative-space margin, preserving the framed-diorama look and balanced composition.
+> 
+> Very Important:
+> Before generating, ensure accurate core historical references for the user-inputted ancient city name and specified period (typical architecture, major landmarks, basic timeline, representative figures and symbols). If such historical data is unavailable or too uncertain, notify the user immediately and stop the generation process.
+> 
+> 
+> Parameters:
+> 
+> Aspect ratio: {User input, default 1:1}
+> Historical period or date: {User input}
+> Ancient city name or civilization: {User input}
+
+---
+
+</details>
 
 ### Culinary Diorama
 
