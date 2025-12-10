@@ -6,6 +6,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 ## 📚 Table of Contents
 - [📊 Infographics](#-infographics)
+  - [ABC of Jobs Poster](#abc-of-jobs-poster)
   - [Watercolor Storybook](#watercolor-storybook)
   - [Wikipedia Biographical Summary](#wikipedia-biographical-summary)
   - [Building Diagram from Photo](#building-diagram-from-photo)
@@ -57,6 +58,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Claymation Infographic](#claymation-infographic)
 
 ## 📊 Infographics
+
+### ABC of Jobs Poster
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339624/nbp-prompts/0eeed208821354b6dadff45005580379.png" width="400" alt="ABC of Jobs Poster">
+
+**Author:** [Lamar Andrews](https://x.com/LamarMandrews) | **Source:** [Twitter/X Status](https://x.com/LamarMandrews/status/1998460480852291892/photo/1)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Create a colorful ‘ABC of Jobs’ poster for kids with cute illustrations for each letter A–Z. Bright colors, bold letters, simple details, clean layout
+
+---
+
+</details>
 
 ### Watercolor Storybook
 
