@@ -14,6 +14,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Glass Whiteboard](#glass-whiteboard)
   - [GTA V Pause Menu Map](#gta-v-pause-menu-map)
   - [Hollywood Classic Scenes Whiteboard](#hollywood-classic-scenes-whiteboard)
+  - [Insane Roast Scribbles](#insane-roast-scribbles)
   - [SWOT Analysis Corkboard](#swot-analysis-corkboard)
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
@@ -211,6 +212,26 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > Create a warm nostalgic lighting mood with soft shadows to give the whiteboard a lived-in, cinematic classroom feel.
 > Overall visual tone: vintage, textured, cozy yet scholarly academy style, with a sense of curated film analysis.
 > Ensure the layout is high-contrast, highly readable, and clearly framed within the 1080x1080 resolution.
+
+---
+
+</details>
+
+### Insane Roast Scribbles
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339008/nbp-prompts/9d84eb4f9416a600319b9f84af303929.png" width="400" alt="Insane Roast Scribbles">
+
+**Author:** [Sidharth II सिद्धार्थ](https://x.com/sidharthgehlot) | **Source:** [Twitter/X](https://x.com/sidharthgehlot/status/1997930530130866415)
+
+<details>
+<summary>Prompt & Workflow</summary>
+
+<br>
+
+**Workflow:** Nano Banana Pro (requires uploading a screenshot)
+
+**Nano Banana Pro prompt:**
+> Overlay this with insane roast scribble, red ink, doodles, remarks, comments.
 
 ---
 
