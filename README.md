@@ -43,6 +43,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Four Seasons Panorama](#four-seasons-panorama)
   - [Hand-Drawn Caricature](#hand-drawn-caricature)
 - [🧊 3D & Renders](#-3d--renders)
+  - [3D Glasses-Free LED Screen](#3d-glasses-free-led-screen)
   - [Ancient City Diorama](#ancient-city-diorama)
   - [Culinary Diorama](#culinary-diorama)
   - [Futuristic City 2050](#futuristic-city-2050)
@@ -837,6 +838,27 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 </details>
 
 ## 🧊 3D & Renders
+
+### 3D Glasses-Free LED Screen
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765340155/nbp-prompts/1140582bc0c234cb44c00aa0f4b1f35e.png" width="400" alt="3D Glasses-Free LED Screen">
+
+**Author:** [宝玉](https://x.com/dotey) | **Source:** [Twitter/X Status](https://x.com/dotey/status/1997574511705657772)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> An enormous L-shaped glasses-free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses-free 3D animation featuring [scene description]. The characters and objects possess striking depth and appear to break through the screen’s boundaries, extending outward or floating vividly in mid-air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen’s surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead.
+> ----
+> scene description: 
+> [An adorable giant kitten playfully paws at passing pedestrians, its fluffy paws and curious face extending realistically into the space around the screen.]
+
+---
+
+</details>
 
 ### Ancient City Diorama
 
