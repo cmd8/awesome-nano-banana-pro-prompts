@@ -32,6 +32,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Era Blend](#era-blend)
 - [🎨 Art & Illustration](#-art--illustration)
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
+  - [Fanta Bottle Fantasy Castle](#fanta-bottle-fantasy-castle)
 - [🧊 3D & Renders](#-3d--renders)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
@@ -591,6 +592,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 > Atmosphere:
 >
 > The overall mood should be frantic, humorous, and overwhelming, capturing the "doom-scrolling" energy of the year while remaining colorful and fun.
+
+---
+
+</details>
+
+### Fanta Bottle Fantasy Castle
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339145/nbp-prompts/16ad93dac829346666a83278d42add63.png" width="400" alt="Fanta Bottle Fantasy Castle">
+
+**Author:** [KANA](https://x.com/KanaWorks_AI) | **Source:** [X (Twitter)](https://x.com/KanaWorks_AI/status/1997851570323796109/photo/4)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> This is a whimsical【 orange-and-green】 fantasy castle crafted from 【Fanta 】bottle labels. The scene includes playful dragons and soda-themed airships — humorous yet surprisingly detailed, radiating an unexpected sense of magic.1080×1080
 
 ---
 
