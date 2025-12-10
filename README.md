@@ -43,6 +43,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [🧊 3D & Renders](#-3d--renders)
   - [Futuristic City 2050](#futuristic-city-2050)
   - [Isometric Architecture](#isometric-architecture)
+  - [Isometric Luxury Tropical Villa](#isometric-luxury-tropical-villa)
   - [Isometric Miniature Room](#isometric-miniature-room)
   - [Isometric Multiverse Diorama](#isometric-multiverse-diorama)
   - [Landmark Diorama](#landmark-diorama)
@@ -796,6 +797,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Create a highly detailed isometric 3D rendering of [LANDMARK] in architectural visualization style. The building is shown at a 45-degree angle from above, displaying three visible sides with intricate architectural detail. Photorealistic textures showing materials like stone, glass, metal, or brick. Include the base/ground level with tiny people, cars, and landscaping for scale. Clean white or light grey background. Professional architectural rendering with soft ambient shadows beneath the structure. Every window, column, ornamental detail, and structural element clearly visible. 1080x1080 dimension, centered composition. Style similar to video game building assets or architectural presentation models - clean, detailed, slightly stylized but realistic.
+
+---
+
+</details>
+
+### Isometric Luxury Tropical Villa
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765339952/nbp-prompts/f461dea5495f6aa5008171a52129b6b2.png" width="400" alt="Isometric Luxury Tropical Villa">
+
+**Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Twitter/X](https://x.com/HarshithLucky3/status/1997388074402328617)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> An isometric 3D architectural rendering of a luxury three-story tropical villa isolated on a pure white background. The design emphasizes natural materials with warm timber cladding, stacked stone accent walls, and extensive floor-to-ceiling glass. The Rooftop: Features a large cantilevered pergola with climbing vines shading a lounge area, built-in planter boxes with palm trees, and a small, elevated jacuzzi. The Middle Floors: Deep balconies with glass railings, featuring hanging plants and a woven hammock. The Ground Floor: Boasts a lap pool with turquoise water and a wooden deck, an open-plan living area visible through glass doors, and a carport housing a vintage beige Land Rover Defender. Style: Clean architectural visualization, SketchUp style, bright warm daylight, sharp shadows, rich textures, 8k resolution.
 
 ---
 
