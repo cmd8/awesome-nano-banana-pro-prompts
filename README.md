@@ -23,6 +23,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
   - [Research Paper](#research-paper)
   - [Parchment Paper](#parchment-paper) 
   - [Food Process Diagram](#food-process-diagram)
+  - [Persian Cat CPU Graphs](#persian-cat-cpu-graphs)
   - [Product Evolution Timeline](#product-evolution-timeline)
   - [Whiteboard Doodle Summary](#whiteboard-doodle-summary)
   - [Patent Style](#patent-style)
@@ -395,6 +396,24 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > Detailed food process diagram showing how Japanese ramen is made. Labeled steps: broth simmering, noodle making, tare preparation, toppings, assembly. Top down and cutaway views, clean illustrations, minimal palette, neat icons, steam wisps for warmth.
+
+---
+
+</details>
+
+### Persian Cat CPU Graphs
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765340059/nbp-prompts/63cdd1af1455db755f4a2bff5e0629e7.png" width="400" alt="Persian Cat CPU Graphs">
+
+**Author:** [Gadgetify](https://x.com/Gdgtify) | **Source:** [Twitter/X Status](https://x.com/Gdgtify/status/1996676883744965070)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> Old UNIX “top” process list whose CPU graphs shape a scrolling side-view of a Persian cat
 
 ---
 
