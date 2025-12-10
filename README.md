@@ -23,6 +23,7 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 - [📸 Photography & Realistic](#-photography--realistic)
   - [Polaroid Storyboard](#polaroid-storyboard)
   - [Knolling](#knolling)
+  - [Vertical Slice Glitch](#vertical-slice-glitch)
 - [🎨 Art & Illustration](#-art--illustration)
   - [2024 Wimmelbilder Summary](#2024-wimmelbilder-summary)
 - [🧊 3D & Renders](#-3d--renders)
@@ -354,6 +355,72 @@ A curated collection of high-fidelity prompts, styles and workflows for Nano Ban
 
 **Nano Banana Pro prompt:**
 > A knolling for Google DeepMind
+
+---
+
+</details>
+
+### Vertical Slice Glitch
+
+<img src="https://res.cloudinary.com/dv1xdafx2/image/upload/v1765335958/nbp-prompts/2033bca5b8d5aa580fae7bec28b9635c.png" width="400" alt="Vertical Slice Glitch">
+
+**Author:** [Gizem Akdag](https://x.com/gizakdag) | **Source:** [Twitter/X Thread](https://x.com/gizakdag/status/1996288172624634336/photo/1)
+
+<details>
+<summary>Prompt</summary>
+
+<br>
+
+**Nano Banana Pro prompt:**
+> {
+> "style": {
+>   "name": "vertical_slice_glitch",
+>   "description": "High-fashion portrait with vertical slice distortion, glitch splitting, and analog-style grain.",
+>   "elements": {
+>     "subject": {
+>       "type": "fashion_portrait",
+>       "framing": "tight_face_centered",
+>       "expression": "neutral_or_intense",
+>       "lighting": "soft_diffused_studio",
+>       "skin_texture": "realistic_with_blush",
+>       "wardrobe": "minimal_solid_colors"
+>     },
+>     "distortion": {
+>       "effect": "vertical_slit_scan",
+>       "slice_count": "40-80",
+>       "slice_thickness": "thin",
+>       "displacement_amount": "medium",
+>       "alignment": "center_weighted",
+>       "smooth_blend_edges": false,
+>       "random_offset": true,
+>       "direction": "vertical"
+>     },
+>     "texture": {
+>       "grain": "medium_heavy",
+>       "noise": "fine_digital_noise",
+>       "compression_artifacts": "subtle",
+>       "film": "matte_fashion_editorial"
+>     },
+>     "color_palette": {
+>       "background": "#F2F2F2",
+>       "tones": "muted_neutral",
+>       "accent": "deep_red",
+>       "contrast": "medium_high"
+>     },
+>     "camera": {
+>       "lens": "85mm_portrait",
+>       "depth_of_field": "shallow",
+>       "focus": "eyes",
+>       "angle": "straight_on"
+>     }
+>   }
+> },
+> "output": {
+>   "format": "high_fashion_glitch_portrait",
+>   "aspect_ratio": "3:4",
+>   "resolution": "high"
+> }
+> }
 
 ---
 
